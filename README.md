@@ -1,4 +1,4 @@
-##Swiggy Business Insights - SQL Data Analysis
+
 # Project Overview
 This project performs a comprehensive data analysis on a Swiggy Dataset using SQL. The goal is to extract actionable business insights regarding restaurant performance, consumer spending habits, and regional revenue distribution. By analyzing various metrics like ratings, order volume, and pricing segments, this project demonstrates how data-driven decisions can optimize food delivery operations.
 
